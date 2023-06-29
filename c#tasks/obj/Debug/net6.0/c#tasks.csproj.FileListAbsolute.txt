@@ -1,0 +1,15 @@
+C:\Joswin\Learning\C#\Tasks\c#tasks\bin\Debug\net6.0\c#tasks.exe
+C:\Joswin\Learning\C#\Tasks\c#tasks\bin\Debug\net6.0\c#tasks.deps.json
+C:\Joswin\Learning\C#\Tasks\c#tasks\bin\Debug\net6.0\c#tasks.runtimeconfig.json
+C:\Joswin\Learning\C#\Tasks\c#tasks\bin\Debug\net6.0\c#tasks.dll
+C:\Joswin\Learning\C#\Tasks\c#tasks\bin\Debug\net6.0\c#tasks.pdb
+C:\Joswin\Learning\C#\Tasks\c#tasks\obj\Debug\net6.0\c#tasks.csproj.AssemblyReference.cache
+C:\Joswin\Learning\C#\Tasks\c#tasks\obj\Debug\net6.0\c#tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Joswin\Learning\C#\Tasks\c#tasks\obj\Debug\net6.0\c#tasks.AssemblyInfoInputs.cache
+C:\Joswin\Learning\C#\Tasks\c#tasks\obj\Debug\net6.0\c#tasks.AssemblyInfo.cs
+C:\Joswin\Learning\C#\Tasks\c#tasks\obj\Debug\net6.0\c#tasks.csproj.CoreCompileInputs.cache
+C:\Joswin\Learning\C#\Tasks\c#tasks\obj\Debug\net6.0\c#tasks.dll
+C:\Joswin\Learning\C#\Tasks\c#tasks\obj\Debug\net6.0\refint\c#tasks.dll
+C:\Joswin\Learning\C#\Tasks\c#tasks\obj\Debug\net6.0\c#tasks.pdb
+C:\Joswin\Learning\C#\Tasks\c#tasks\obj\Debug\net6.0\c#tasks.genruntimeconfig.cache
+C:\Joswin\Learning\C#\Tasks\c#tasks\obj\Debug\net6.0\ref\c#tasks.dll
